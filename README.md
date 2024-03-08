@@ -1,1 +1,1 @@
-# Sales-Forecasting
+# Sales-Forecasting by Seasonal Naive model
