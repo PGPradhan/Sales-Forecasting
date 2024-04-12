@@ -1,1 +1,1 @@
-# Sales-Forecasting by Seasonal Naive model and Linear Regression 
+# Sales-Forecasting by Seasonal Naive model and Linear Regression Model
